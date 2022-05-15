@@ -37,12 +37,13 @@
     
 ### 方法
     
-    * 1. 下载 [electron][1] 客户端  
-    * 2. 下载 [Bilibili][2] 官方Windows客户端  
-    * 3. 解压<kbd>.exe</kbd>文件  
-    * 4. 在<kbd>$PLUGINSDIR</kbd>文件夹中找到<kbd>app-64.7z</kbd>压缩文件并解压  
-    * 5. 找到<kbd>~/bili_win-install/$PLUGINSDIR/app-64/resources/</kbd>目录  
-    * 6. 复制<kbd>app.asar</kbd>文件  
+* 1. 下载 [electron][1] 客户端  
+* 2. 下载 [Bilibili][2] 官方Windows客户端  
+* 3. 解压<kbd>.exe</kbd>文件  
+* 4. 在<kbd>$PLUGINSDIR</kbd>文件夹中找到<kbd>app-64.7z</kbd>压缩文件并解压  
+* 5. 找到<kbd>~/bili_win-install/$PLUGINSDIR/app-64/resources/</kbd>目录  
+* 6. 复制<kbd>app.asar</kbd>文件  
+
 ![app.asar文件](https://github.com/xlle-er/Bilibili--Mac/blob/main/src/file.png?raw=true "app.asar文件位置")
     * 7. 解压<kbd>electron.zip</kbd>文件  
     * 8. 右键<kbd>Electron.app</kbd>,显示包内容  
